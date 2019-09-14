@@ -9,8 +9,8 @@ import tensorflow_datasets as tfds
 import tf_sentencepiece as tfs
 
 from .losses import SparseSoftmaxCrossentropyWithMaskedPadding
-from .mlt import TransformerWithTiedEmbedding
 from .schedules import CustomSchedule
+from .transformer import TransformerWithTiedEmbedding
 
 
 def prepare_datasets(batch_size, dataset_size=500000):

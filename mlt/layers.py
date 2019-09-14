@@ -25,7 +25,7 @@ class Attention(Layer):
 
 class ConditionalNormalization(Layer):
     """
-    https://github.com/suyash/stylizer/blob/master/algorithms/image_stylization/trainer/task.py#L49-L127
+    https://github.com/suyash/stylizer/blob/master/stylizer/layers/normalization.py#L6
     """
     def __init__(
             self,
