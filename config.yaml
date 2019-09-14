@@ -1,0 +1,5 @@
+trainingInput:
+  scaleTier: CUSTOM
+  masterType: complex_model_m_p100
+  runtimeVersion: "1.14"
+  pythonVersion: "3.5"
