@@ -1,0 +1,10 @@
+subwords
+__pycache__
+.ipynb_checkpoints
+runs
+*.sh
+Untitled*.ipynb
+sentencepiece
+*.pyc
+tmp
+data
