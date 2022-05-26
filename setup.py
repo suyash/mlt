@@ -2,7 +2,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 REQUIRED_PACKAGES = [
-    "tensorflow-gpu==2.0.0b1", "tensorflow-datasets==1.1.0",
+    "tensorflow-gpu==2.7.2", "tensorflow-datasets==1.1.0",
     "tf_sentencepiece==0.1.83"
 ]
 
